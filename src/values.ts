@@ -1,0 +1,3 @@
+export const values = {
+    DEPLOYED_CONTRACT_ADDRESS: '0xE301622acC305c8a6aA15b375B4CC3D2DAe66769'
+};
